@@ -83,7 +83,7 @@ function ElegantShape({
 
 export default function Infinity({
                                         badge = "Infinity Wayy",
-                                        title1 = "MITE Remasterd"
+                                        title1 = "MITE Remastered"
                                  }: {
     badge?: string
     title1?: string
