@@ -7,12 +7,14 @@ import Image from "next/image"
 import { cn } from "@/lib/utils"
 import flower from "@/assets/bg-ifw01.png";
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const pacifico = Pacifico({
   subsets: ["latin"],
   weight: ["400"],
   variable: "--font-pacifico",
 })
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 function ElegantShape({
                         className,
                         delay = 0,
